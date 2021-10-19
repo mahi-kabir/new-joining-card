@@ -1,0 +1,12 @@
+.date{
+    
+    display: inline; /* the default for span */
+    margin-right:50px;
+    background-color: blue;
+    text-align: right;
+    
+}
+
+.image{
+    margin-left:500px;
+}
